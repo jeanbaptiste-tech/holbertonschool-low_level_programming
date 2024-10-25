@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main - Génère un nombre aléatoire et indique s'il est positif, négatif ou nul
+ * main - Génère un nombre aléatoire et indique s'il est positif,
+ * négatif ou nul
  *
  * Return: Always 0 (Success)
  */
