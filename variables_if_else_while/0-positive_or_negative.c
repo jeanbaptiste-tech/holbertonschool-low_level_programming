@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-
+#include <stdio.h>
 /**
  * main - Génère un nombre aléatoire et indique s'il est positif,
  * négatif ou nul.
