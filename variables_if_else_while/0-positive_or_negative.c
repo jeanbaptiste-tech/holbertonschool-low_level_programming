@@ -1,8 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
-#include <unistd.h> // Pour utiliser 'write'.
 
-/* betty style doc for function main goes there */
+/**
+ * main - Génère un nombre aléatoire et indique s'il est positif,
+ * négatif ou nul.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
