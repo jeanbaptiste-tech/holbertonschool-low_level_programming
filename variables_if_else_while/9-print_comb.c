@@ -11,16 +11,15 @@ int main(void)
 
     for (num = 0; num < 10; num++)
     {
-        putchar(num + '0'); // Print the current number
+        putchar(num + '0'); 
 
-        // Check if it's not the last number to print the comma and space
         if (num != 9)
         {
-            putchar(','); // Print comma
-            putchar(' '); // Print space
+            putchar(',');
+            putchar(' ');
         }
     }
-    putchar('\n'); // Print newline
-
+    putchar('\n');
+    
     return (0);
 }
