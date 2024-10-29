@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _isupper - V√rifie si un caract√re est en majuscule 
- * @c: le caract√re a verifier
+ *_isupper - V√rifie si un caract√re est en majusce
+ * @c: le caract√re a verifir
  *
  * Return: 1 si le caract√re est en majuscule, 0 sinon
  */
